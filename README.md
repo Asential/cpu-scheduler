@@ -28,44 +28,44 @@ I also generate a Gaant chart using python in form of a SVG for the algorithms.
 
 Sample data can be found in /samples
 
-![main](images\All.jpg)
+![main](images/All.jpg)
 
 
 **Gaant Charts**
 
 *First Come First Serve*
 
-![FCFS](images\FirstComeFirstServe.jpg)
+![FCFS](images/FirstComeFirstServe.jpg)
 
 ---
 
 *Highest Response Ratio Next*
 
-![HRRN](images\HighestResponseRationNext.jpg)
+![HRRN](images/HighestResponseRationNext.jpg)
 
 ---
 
 
 *Priority*
 
-![P](images\Priority.jpg)
+![P](images/Priority.jpg)
 
 ---
 
 *Round Robin*
 
-![RR](images\RoundRobin.jpg)
+![RR](images/RoundRobin.jpg)
 
 ---
 
 *Shortest Job First (Non-Preemptive)*
 
-![SJF](images\ShortestJobFirst(NonPreEmptive).jpg)
+![SJF](images/ShortestJobFirst(NonPreEmptive).jpg)
 
 ---
 
 *Shortest Job First (Preemptive)*
 
-![SJFN](images\ShortestJobFirst(PreEmptive).jpg)
+![SJFN](images/ShortestJobFirst(PreEmptive).jpg)
 
 ---
