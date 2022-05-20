@@ -1,0 +1,12 @@
+Algo: Earliest Deadline First
+
+Name                     ArrivalTime       BurstTime     WaitingTime  TurnaroundTime    ResponseTime  CompletionTime         CPUUtil
+P1                                 8               5               4               0               0               0               0            1.25
+P2                                 3               4               5               0               0               0               0             0.8
+P3                                 0               4              10               0               0               0               0             0.4
+
+Average Waiting TIme: 0.0
+Average Turnaround time: 0.0
+Average Response time: 0.0
+CPUUtilTotal: 0.0
+---------------------------
