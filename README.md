@@ -1,4 +1,4 @@
-# cpu-scheduler
+# CPU Scheduler
 
 This is a Java program to simulate the following CPU Scheduling algorithms.
 
@@ -35,37 +35,37 @@ Sample data can be found in /samples
 
 *First Come First Serve*
 
-![main](images\FirstComeFirstServe.jpg)
+![FCFS](images\FirstComeFirstServe.jpg)
 
 ---
 
 *Highest Response Ratio Next*
 
-![main](images\HighestResponseRationNext.jpg)
+![HRRN](images\HighestResponseRationNext.jpg)
 
 ---
 
 
 *Priority*
 
-![main](images\Priority.jpg)
+![P](images\Priority.jpg)
 
 ---
 
 *Round Robin*
 
-![main](images\RoundRobin.jpg)
+![RR](images\RoundRobin.jpg)
 
 ---
 
 *Shortest Job First (Non-Preemptive)*
 
-![main](images\ShortestJobFirst(NonPreEmptive).jpg)
+![SJF](images\ShortestJobFirst(NonPreEmptive).jpg)
 
 ---
 
 *Shortest Job First (Preemptive)*
 
-![main](images\ShortestJobFirst(PreEmptive).jpg)
+![SJFN](images\ShortestJobFirst(PreEmptive).jpg)
 
 ---
