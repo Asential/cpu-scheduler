@@ -4,8 +4,8 @@ This is a Java program to simulate the following CPU Scheduling algorithms.
 
 1. First Come First Serve
 2. Round Robin
-3. Shoftest Job First (Premptive)
-4. Shortest Job First (Non-Premptive)
+3. Shortest Job First (Preemptive)
+4. Shortest Job First (Non-Preemptive)
 5. HRRN
 6. Lottery
 7. Earliest Deadline First
